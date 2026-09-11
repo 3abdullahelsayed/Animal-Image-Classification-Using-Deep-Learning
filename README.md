@@ -58,7 +58,7 @@ Due to the large size of the dataset, the original image files are **hosted on G
 
 The complete dataset can be accessed through the following Google Drive folder:
 
-👉 **[Access the Animal Image Dataset on Google Drive]([https://drive.google.com/drive/folders/1C0QeSZxVp6ydMNO7HqCJCToJbJhfy678?usp=drive_link](https://drive.google.com/drive/folders/1Ftdam7rcyn-oD-VB0fOxNqf1SRGLZXi1?usp=drive_link)s)**
+👉 **[Access the Animal Image Dataset on Google Drive](https://drive.google.com/drive/folders/1Ftdam7rcyn-oD-VB0fOxNqf1SRGLZXi1?usp=drive_link)**
 
 ### Dataset Organization
 
